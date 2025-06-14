@@ -68,18 +68,18 @@ h1 {
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
 }
 .under-nav {
-  left: 0;
+  right: 435px;
   bottom: 0;
   position: absolute;
-  width: 70%;
-  height: 3%;
+  width: 100%;
+  height: 37px;
   background-color: rgba(0, 0, 0, 0.5);
 }
 .loading-box {
   right: 0;
   bottom: 0;
   position: absolute;
-  width: 30%;
-  height: 15%;
+  width: 435px;
+  height: 101px;
   background-color: rgba(0, 0, 0, 0.5);
 }
